@@ -1,6 +1,5 @@
 This is a login system with JWT authentication and authorization. It is built with NestJS, Prisma, and SQLite.
 
-[]: # Path: README.md
 
 []: # Path: README.md
 
